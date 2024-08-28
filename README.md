@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/C4D12AQHzV2ldBX8G9g/article-cover_image-shrink_720_1280/0/1567163016962?e=2147483647&v=beta&t=Ly1gYkGJ9io2YH3-Tj6-Z2yzjk6oXjiVv7qZfXMU704)]
+![MasterHead](https://media.licdn.com/dms/image/C4D12AQHzV2ldBX8G9g/article-cover_image-shrink_720_1280/0/1567163016962?e=2147483647&v=beta&t=Ly1gYkGJ9io2YH3-Tj6-Z2yzjk6oXjiVv7qZfXMU704)
 <h1 align="center">Hi 👋, I'm Qurat Ul Ain</h1>
 <h3 align="center">A passionate AI Engineer from Pakistan.</h3>
 <img align="right" alt="Coding" width="400" src="https://www.unite.ai/wp-content/uploads/2023/11/DALL%C2%B7E-2023-11-12-13.06.04-Create-an-anime-style-illustration-of-a-half-human-half-robot-character-engaged-in-coding.-The-human-side-should-be-an-anime-character-of-East-Asian-.png">
