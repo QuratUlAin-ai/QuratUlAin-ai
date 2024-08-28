@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **deployment of AI models.**
 
-- 💬 Ask me about **LLMS, Neural Networks.**
+- 💬 Ask me about **ML models, LLMS, Neural Networks.**
 
 - 📫 How to reach me **quratulain1185@gmail.com**
 
